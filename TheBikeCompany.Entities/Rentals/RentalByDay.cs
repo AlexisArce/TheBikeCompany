@@ -4,7 +4,7 @@
     {
         public override decimal GetCharge()
         { 
-            return Amount * 5.00M;
+            return Amount * 20.00M;
         }
     }
 }
